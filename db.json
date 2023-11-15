@@ -19,56 +19,6 @@
                 { "user": "User2", "rating": 2 },
                 { "user": "User3", "rating": 1 }
             ]
-        },
-        {
-            "id": 3,
-            "name": "Nguyễn Văn C",
-            "adress": "Chợ hạnh thông tây",
-            "reviews": [
-                { "user": "User1", "rating": 3 },
-                { "user": "User2", "rating": 5 },
-                { "user": "User3", "rating": 3 }
-            ]
-        },
-        {
-            "id": 4,
-            "name": "Nguyễn Văn D",
-            "adress": "Chợ phạm văn hai",
-            "reviews": [
-                { "user": "User1", "rating": 5 },
-                { "user": "User2", "rating": 5 },
-                { "user": "User3", "rating": 3 }
-            ]
-        },
-        {
-            "id": 5,
-            "name": "Nguyễn Văn E",
-            "adress": "Chợ cây thị",
-            "reviews": [
-                { "user": "User1", "rating": 4 },
-                { "user": "User2", "rating": 5 },
-                { "user": "User3", "rating": 1 }
-            ]
-        },
-        {
-            "id": 6,
-            "name": "Nguyễn Văn F",
-            "adress": "Chợ chợ thủ đức",
-            "reviews": [
-                { "user": "User1", "rating": 1 },
-                { "user": "User2", "rating": 5 },
-                { "user": "User3", "rating": 3 }
-            ]
-        },
-        {
-            "id": 7,
-            "name": "Nguyễn Văn G",
-            "adress": "Siêu thị",
-            "reviews": [
-                { "user": "User1", "rating": 4 },
-                { "user": "User2", "rating": 2 },
-                { "user": "User3", "rating": 3 }
-            ]
-        }
+        } 
     ]
 }
